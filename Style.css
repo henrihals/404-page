@@ -1,0 +1,34 @@
+body {
+    background-color: black;
+}
+h1 {
+    color: #ffffff;
+    font-style: italic;
+    text-shadow: 2px 2px 3px #FF100A;
+    position: relative;
+    box-sizing: border-box;
+    width: 1250px;
+    height: 250px;
+    text-align: center;
+}
+.erreur {
+    color: #FF100A;
+    font-weight: bold;
+    font-size: 20px;
+    position:relative;
+    box-sizing: border-box;
+    width: 1250px;
+    height: 250px;
+    text-align: center;
+}
+p {
+    color: #ffffff;
+    position: relative;
+    box-sizing: border-box;
+    width: 1250px;
+    height: 125px;
+    text-align: center;
+}
+.bouton {
+    color: #3ceb06da;
+}
